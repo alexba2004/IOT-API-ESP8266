@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Ignore node modules
+node_modules/
+
 # Ignore ESP8266 TEST
 ESP8266-Test.ino
 
